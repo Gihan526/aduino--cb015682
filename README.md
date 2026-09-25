@@ -24,3 +24,6 @@ In auto mode, motion opens the gate. The potentiometer sets how long it stays op
 If an object is detected within 20 cm while the gate closes, the gate stops and the buzzer sounds. Once the path has been clear for 2 seconds, the gate reopens.
 
 Serial commands: `AUTO`, `MANUAL`, `OPEN`, `CLOSE`, `STATUS`, `HELP`. Use `MANUAL` before `OPEN` or `CLOSE`.
+
+Name: Gihan Ariyasena
+Student ID: CB015682
